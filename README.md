@@ -1,3 +1,5 @@
+Uygulamanın amacı çalışan ve görev dağılımını en basit sekilde yapmamızı sağlıyor etkinlik ve çalışan oluşturup çalışana görev atayabilliyoruz
+
 ![Ekran Alıntısı](https://github.com/YusufSural/isTakipVeYonetimSistemi-14/assets/84929731/00862888-50e9-40af-8053-69a1111427e9)
 
 ![Ekran Alıntısı2](https://github.com/YusufSural/isTakipVeYonetimSistemi-14/assets/84929731/06fcdfd8-408c-4662-80ca-e71846b7e099)
